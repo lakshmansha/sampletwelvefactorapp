@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sampletwelvefactorapp"
+    }
+  },
+  "defaultProject": "sampletwelvefactorapp",
+  "cli": {
+    "analytics": false
+  }
 }
